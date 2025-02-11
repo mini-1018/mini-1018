@@ -1,10 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B2EBF4&height=200&section=header&text=mini%20github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=172F45&height=200&section=header&text=mini%20github&fontSize=60)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmini-1018%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mini-1018&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mini-1018&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mini-1018&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mini-1018&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=prussian&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mini-1018&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mini-1018&radius=0&theme=react&area=true&order=5&bg_color=172F45" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+###
 
 ###
 
